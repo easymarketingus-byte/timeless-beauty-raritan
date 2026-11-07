@@ -1,0 +1,318 @@
+{
+  "brand": "Timeless Beauty Raritan",
+  "tagline": "Permanent Makeup & Advanced Aesthetics",
+  "address": "69 W Somerset St, Raritan, NJ 08869, United States",
+  "phone": "(908) 255-4458",
+  "email": "lee.tran893@gmail.com",
+  "rating": "5.0",
+  "review_count": "55+",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM - 7:00 PM",
+    "Wednesday": "9:30 AM - 7:00 PM",
+    "Thursday": "9:30 AM - 7:00 PM",
+    "Friday": "9:30 AM - 7:00 PM",
+    "Saturday": "By Appointment",
+    "Sunday": "9:30 AM - 7:00 PM"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/TimelessBeautyRaritan",
+    "instagram": "https://www.instagram.com/timeless_beauty_raritan",
+    "google": "https://share.google/OZFbCHwlTxk9uBhXi",
+    "website": "https://timelessbeautyraritan.com/"
+  },
+  "services": [
+    {
+      "category": "brows",
+      "category_name": "Eyebrows",
+      "items": [
+        {
+          "name": "Microblading",
+          "price": "$600",
+          "duration": "Up to 1.5 hrs",
+          "desc": "Feather-light, hair-like strokes creating ultra-natural fullness tailored to your facial structure.",
+          "touchup": "Includes 1st touch up after 4 weeks",
+          "img": "images/3.png"
+        },
+        {
+          "name": "Microblading + Shading",
+          "price": "$700",
+          "duration": "Up to 1.5 hrs",
+          "desc": "Combines natural hair strokes with soft powdered shading for enhanced density and dimension.",
+          "touchup": "Includes 1st touch up after 4 weeks",
+          "img": "images/p96ZB0k4L.jpg"
+        },
+        {
+          "name": "Powder Brow",
+          "price": "$500",
+          "duration": "Up to 2 hrs",
+          "desc": "Soft, misty cosmetic tattoo effect giving a subtle, filled-in makeup look suitable for all skin types.",
+          "touchup": "Includes 1st touch up after 4 weeks",
+          "img": "images/wk9UV5MNS.jpg"
+        },
+        {
+          "name": "Ombré Brows",
+          "price": "$500",
+          "duration": "Up to 2 hrs",
+          "desc": "Gradual gradient technique that is lighter at the front and darker towards the tail for defined elegance.",
+          "touchup": "Includes 1st touch up after 4 weeks",
+          "img": "images/1-4.png"
+        },
+        {
+          "name": "Touch-up (9 - 12 months)",
+          "price": "$250",
+          "duration": "Up to 1 hr",
+          "desc": "Refresher color boost to maintain sharp shape and rich pigmentation.",
+          "touchup": "Annual maintenance",
+          "img": "images/2-4.png"
+        },
+        {
+          "name": "Touch-up (12 - 18 months)",
+          "price": "$350",
+          "duration": "Up to 1.5 hrs",
+          "desc": "Complete color revival and shape refinement for longer-standing permanent makeup.",
+          "touchup": "Maintenance session",
+          "img": "images/eebac436a667ff19fbdbeee45bd613cc.jpg"
+        }
+      ]
+    },
+    {
+      "category": "eyeliner",
+      "category_name": "Eyeliner",
+      "items": [
+        {
+          "name": "Eyeliner Top",
+          "price": "$275",
+          "duration": "Up to 1 hr",
+          "desc": "Flawless upper lashline definition that accentuates eye shape without smudging.",
+          "touchup": "Touch-up available",
+          "img": "images/6.png"
+        },
+        {
+          "name": "Eyeliner Bottom",
+          "price": "$175",
+          "duration": "Up to 1 hr",
+          "desc": "Subtle lower lash enhancement to balance and frame your eyes beautifully.",
+          "touchup": "Touch-up available",
+          "img": "images/1-3.png"
+        },
+        {
+          "name": "Set Eyeliners (Top & Bottom)",
+          "price": "$400",
+          "duration": "Up to 2 hrs",
+          "desc": "Full harmonious upper and lower eyeliner styling for maximum gaze allure.",
+          "touchup": "Touch-up available",
+          "img": "images/3Vk4xDnY0.jpg"
+        },
+        {
+          "name": "Eyeliner Enhancement Top",
+          "price": "$500",
+          "duration": "Up to 1 hr",
+          "desc": "Deep lash enhancement pigment infill for an effortless thicker lash look.",
+          "touchup": "Includes 1st touch up after 4 weeks",
+          "img": "images/2-3.png"
+        },
+        {
+          "name": "Eyeliner Touch-up (9 - 12 months)",
+          "price": "$250",
+          "duration": "Up to 1 hr",
+          "desc": "Color refresh session to keep lashline intensely crisp and dark.",
+          "touchup": "Maintenance session",
+          "img": "images/83035f6cb01b0032fc6a4f0a36154b52.jpg"
+        },
+        {
+          "name": "Eyeliner Touch-up (12 - 18 months)",
+          "price": "$350",
+          "duration": "Up to 1.5 hrs",
+          "desc": "Full rejuvenation of pigment vibrancy across both lash lines.",
+          "touchup": "Maintenance session",
+          "img": "images/7292b5d3719bd3c7e1dc5825cd8d0f6c.jpg"
+        }
+      ]
+    },
+    {
+      "category": "lips",
+      "category_name": "Lips",
+      "items": [
+        {
+          "name": "Free Lip Consultation",
+          "price": "Free",
+          "duration": "15 - 30 mins",
+          "desc": "Personalized shade matching and lip symmetry mapping with our master artist.",
+          "touchup": "Complimentary",
+          "img": "images/7.png"
+        },
+        {
+          "name": "Lip Liner",
+          "price": "$300",
+          "duration": "Up to 1 hr",
+          "desc": "Defines borderline symmetry, corrects uneven borders, and prevents lipstick bleeding.",
+          "touchup": "Touch-up available",
+          "img": "images/1-2.png"
+        },
+        {
+          "name": "Full Lip Blush / Color",
+          "price": "$700",
+          "duration": "Up to 3 hrs",
+          "desc": "Youthful full lip tinting, correcting pale tones and delivering a luminous flush of color 24/7.",
+          "touchup": "Includes consultation",
+          "img": "images/Xb0aG4R2q.jpg"
+        },
+        {
+          "name": "Beauty Mark",
+          "price": "$300",
+          "duration": "Up to 30 mins",
+          "desc": "Signature cosmetic beauty mark placement to enhance your unique facial charm.",
+          "touchup": "Precision session",
+          "img": "images/2-2.png"
+        }
+      ]
+    },
+    {
+      "category": "plasma",
+      "category_name": "Plasma Lift",
+      "items": [
+        {
+          "name": "Mini Face Lift",
+          "price": "$400",
+          "duration": "Custom",
+          "desc": "Non-invasive skin tightening targeting mid-face laxity and collagen stimulation.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/Thiet-ke-chua-co-ten.png"
+        },
+        {
+          "name": "Upper Eye Lid Lift",
+          "price": "$800",
+          "duration": "Custom",
+          "desc": "Non-surgical blepharoplasty tightening hooded lids for a refreshed, wide-eyed look.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/4.png"
+        },
+        {
+          "name": "Under Eye Tightening",
+          "price": "$800",
+          "duration": "Custom",
+          "desc": "Firms delicate under-eye laxity and softens crepiness without surgery.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/5.png"
+        },
+        {
+          "name": "Forehead Lines",
+          "price": "$500",
+          "duration": "Custom",
+          "desc": "Smooths horizontal expression lines and stimulates long-term elastin recovery.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/8.png"
+        },
+        {
+          "name": "Frown Lines (11s)",
+          "price": "$300",
+          "duration": "Custom",
+          "desc": "Targets stubborn glabella furrow lines between brows with pinpoint accuracy.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/EEkQYpHO2.jpg"
+        },
+        {
+          "name": "Crow's Feet",
+          "price": "$400",
+          "duration": "Custom",
+          "desc": "Softens fine lines around the outer corners of eyes during natural smiling.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/0cd3db79949aae556bb29d1fa146d3c2.jpg"
+        },
+        {
+          "name": "Upper Lip / Smokers Lines",
+          "price": "$400",
+          "duration": "Custom",
+          "desc": "Diminishes perioral vertical lines around the upper lip border.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/0fb42b7acec78bafe29b9af6f9d1011a.jpg"
+        },
+        {
+          "name": "Lower Lip Smoothing",
+          "price": "$400",
+          "duration": "Custom",
+          "desc": "Tightens loose skin around the chin crease and lower lip margins.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/bed0856a9b4fe9e5526381d11cc765e9.jpg"
+        },
+        {
+          "name": "Nasolabial Folds",
+          "price": "$400",
+          "duration": "Custom",
+          "desc": "Softens smile lines from the sides of the nose down toward the mouth.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/a95d5554cea467a73ba87f53bfdc787e.jpg"
+        },
+        {
+          "name": "Jowl Contouring",
+          "price": "$600",
+          "duration": "Custom",
+          "desc": "Redefines sagging jawlines and lifts lower facial contours visibly.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/3.png"
+        },
+        {
+          "name": "Full Neck Lift",
+          "price": "$1,800",
+          "duration": "Comprehensive",
+          "desc": "Complete neck and submental tightening rejuvenating horizontal neck bands.",
+          "touchup": "Non-surgical procedure",
+          "img": "images/6.png"
+        }
+      ]
+    }
+  ],
+  "aftercare": [
+    {
+      "phase": "Day of Procedure",
+      "time": "Day 1",
+      "instruction": "30 mins after treatment, use provided cotton pad and wipe gently in circular motions. Pat dry and apply a very THIN layer of aftercare cream. Repeat EVERY HOUR until bedtime. Before sleeping, final wipe & cream application (use plastic wrap if normal/dry skin)."
+    },
+    {
+      "phase": "Day 2 to 7",
+      "time": "Days 2 - 7",
+      "instruction": "Every morning and night, wipe treated area with a damp cotton pad. Pat dry and apply a very THIN layer of cream. Repeat whenever skin feels tight or dry."
+    },
+    {
+      "phase": "Healing Timeline",
+      "time": "Days 5 - 21",
+      "instruction": "Days 1-5: Brows darken and scabs form. Days 5-9: Flaking starts (do not pick scabs). Days 9-12: Pigment looks milky due to fresh healing tissue. Days 12-21: True rich pigment blooms back."
+    },
+    {
+      "phase": "30-Day Prohibitions",
+      "time": "First 30 Days",
+      "instruction": "Avoid sunbathing, solariums, chemical peels, Retinol A, AHA/BHA acids, laser procedures over area, and unnecessary antibiotics. Always apply SPF 30+ once healed."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Maria Gonzalez",
+      "rating": 5,
+      "date": "Verified Client",
+      "service": "Microblading & Shading",
+      "comment": "Leena is an absolute perfectionist! I was so nervous about getting my brows tattooed, but she mapped my face with such care and patience. They healed looking totally natural and full. Best decision ever!"
+    },
+    {
+      "name": "Sarah Jenkins",
+      "rating": 5,
+      "date": "Verified Client",
+      "service": "Permanent Eyeliner",
+      "comment": "No more waking up early to struggle with eyeliner! The line is so subtle yet enhances my eyes completely. The studio is pristine, hygienic, and Leena made the whole experience painless."
+    },
+    {
+      "name": "Jennifer Walsh",
+      "rating": 5,
+      "date": "Verified Client",
+      "service": "Full Lip Blush",
+      "comment": "My lips used to be so pale and uneven. Now I just put on clear gloss and look polished every single day. The color match was perfect for my skin tone. 5 stars isn't enough!"
+    },
+    {
+      "name": "Emily Carter",
+      "rating": 5,
+      "date": "Verified Client",
+      "service": "Ombré Powder Brows",
+      "comment": "The attention to detail and cleanliness here is unparalleled in New Jersey. Leena explains every step and aftercare thoroughly. Worth every single penny!"
+    }
+  ]
+}
